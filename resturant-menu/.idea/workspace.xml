@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd7c9b7e-d33f-49dd-987f-4bf514138a4a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../DOM-and-Events-Studio" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ECE4270_lab1.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular-lc101-projects" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/@angular-devkit/schematics-2b5dc9dc/tasks/tslint-fix/test/custom-rule.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/@schematics/angular-c3ec71d0/directive/files/__name@dasherize@if-flat__/__name@dasherize__.directive.spec.ts.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/@schematics/angular-c3ec71d0/pipe/files/__name@dasherize@if-flat__/__name@dasherize__.pipe.ts.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/@schematics/angular-c3ec71d0/service/files/__name@dasherize@if-flat__/__name@dasherize__.service.spec.ts.template" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/resolve-be4e4f42/test/resolver/symlinked/_/symlink_target/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/observable/bindNodeCallback.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/observable/concat.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/observable/defer.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/observable/dom/webSocket.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/observable/empty.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/observable/fromArray.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/observable/fromPromise.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/observable/race.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/observable/range.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/observable/timer.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/observable/zip.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/operators/dematerialize.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/operators/finalize.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/operators/last.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/operators/mapTo.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/operators/max.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/operators/retry.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/operators/take.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/scheduler/async.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/testing/ColdObservable.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/testing/HotObservable.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/testing/SubscriptionLog.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/util/EmptyError.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/util/ObjectUnsubscribedError.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/util/canReportError.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/util/errorObject.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/util/isInteropObservable.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/util/isScheduler.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/util/subscribeToPromise.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/rxjs-71b14ff5/_esm2015/internal/util/toSubscriber.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/uri-js-d812c844/dist/esnext/schemes/mailto.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/uri-js-d812c844/dist/esnext/schemes/urn-uuid.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/uri-js-d812c844/dist/esnext/schemes/ws.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/uri-js-d812c844/dist/esnext/schemes/wss.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/uri-js-d812c844/dist/esnext/schemes/wss.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/util-promisify-64500565/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/void-elements-da270b81/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/webdriver-js-extender-b0938cb6/built/built/built/built/built/built/built/built/built/built/built/built/built/built/built/spec/command_tests/.totally_real_apk.apk.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/webdriver-js-extender-b0938cb6/built/built/built/built/built/spec/command_tests/.totally_real_apk.apk.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/webdriver-js-extender-b0938cb6/built/built/built/spec/command_tests/.totally_real_apk.apk.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/webdriver-js-extender-b0938cb6/built/built/spec/command_tests/.totally_real_apk.apk.icloud" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/component-practice 2/node_modules/.staging/webdriver-js-extender-b0938cb6/built/spec/mock-server/commands/storage.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular_practice/my-project-name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-4-html-me-something-944695" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-5-v2-launch-checklist-944695" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assignment-6-orbit-report-944695" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exercises.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstattempt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_world.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello_world.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hellow_world.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="20C2LyWBQedc4tECEtZs5iIPNHM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd7c9b7e-d33f-49dd-987f-4bf514138a4a" name="Changes" comment="" />
+      <created>1635534201365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635534201365</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
