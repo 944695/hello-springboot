@@ -18,6 +18,10 @@ public class Quiz {
     }
 
     // Methods
+    public ArrayList<Question> getQuestions() {
+        return questions;
+    }
+
     public void addQuesitons(Question question) {
         this.questions.add(question);
     }
