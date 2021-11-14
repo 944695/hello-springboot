@@ -5,6 +5,9 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.beans.factory.annotation.Autowired;
 
+import java.util.ArrayList;
+import java.util.List;
+
 
 @Controller
 public class HelloController {
@@ -38,6 +41,16 @@ public class HelloController {
     @GetMapping("form")
     public String helloForm() {
         return "form";
+    }
+
+    @GetMapping("hello-names")
+    public String helloNames(Model model) {
+        ArrayList<String> names = new ArrayList<>();
+        names.add("LaunchCode");
+        names.add("Java");
+        names.add("JavaScript");
+        model.addAttribute("names", names);
+        return "hello-list";
     }
 
 }
